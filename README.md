@@ -1,6 +1,6 @@
 # MorseDecoder
 
-Contains a program which decodes a morse code to a readable message in the english alphabet. To run the program, open the file _MorseDecoder.py_ and run it on the terminal or your IDE. Make sure your IDE decodes CTRL + C as quitting the program, and not as copying. 
+Contains a program which decodes a morse code to a readable message in the english alphabet. To run the program, open the file _MorseDecoder.py_ and run it on the terminal or your IDE. Your message will be printed to the terminal after decoding. Make sure your IDE decodes CTRL + C as quitting the program, and not as copying. 
 
 The morse code is made by pressing the space bar on the keyboard. The different signals used are made as followed:
 
